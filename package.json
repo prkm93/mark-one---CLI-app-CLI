@@ -1,0 +1,14 @@
+{
+  "name": "mark-one---cli-app-cli",
+  "version": "1.0.0",
+  "description": "CLI quiz app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pradeep",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
