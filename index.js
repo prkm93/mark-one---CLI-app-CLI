@@ -3,39 +3,39 @@ let score = 0;
 
 const questionLevel1 = [
     {
-    question: "1.Who is my favorite superhero? ",
+    question: "1. Who is my favorite superhero? ",
     answer: "ironman"
     },
     {
-      question: "2.Which is my favorite sad song? ",
+      question: "2. Which is my favorite sad song? ",
       answer: "Alvida"
     },
     {
-      question: "3.What is capital of India? ",
-      answer: "Delhi"
+      question: "3. Where is my hometown? ",
+      answer: "Varanasi"
     },
     {
-      question: "4.What is capital of Afghanistan? ",
-      answer: "Kabul"
+      question: "4. In which city do I live? ",
+      answer: "Pune"
     }
 ];
 
 const questionLevel2 = [
     {
-      question: "1.We smell with our? ",
-      answer: "nose"
+      question: "1. In which year I was born? ",
+      answer: "1993"
     },
     {
-      question: "2.What do you call the person who brings a letter to your home from post office? ",
-      answer: "postman"
+      question: "2. Where do I work? ",
+      answer: "Crest Data Systems"
     },
     {
-      question: "3. In which direction does the sun rise?  ",
-      answer: "east"
+      question: "3. Which is my favorite place for vacation? ",
+      answer: "shimla"
     },
     {
-      question: "4.  How many letters are there in the English alphabet? ",
-      answer: "26"
+      question: "4.What's my age? ",
+      answer: "28"
     }
 ];
 
